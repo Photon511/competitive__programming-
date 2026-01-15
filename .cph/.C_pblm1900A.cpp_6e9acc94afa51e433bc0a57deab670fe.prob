@@ -1,0 +1,1 @@
+{"name":"Local: C_pblm1900A","url":"/Users/apple/Desktop/CP31/level800/C_pblm1900A.cpp","tests":[{"id":1767716612466,"input":"Copy\n5\n3\n...\n7\n##....#\n7\n..#.#..\n4\n####\n10\n#...#..#.#","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/apple/Desktop/CP31/level800/C_pblm1900A.cpp","group":"local","local":true}
