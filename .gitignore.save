@@ -1,0 +1,12 @@
+*.bin
+.cph/
+.vscode/
+
+git add .gitignore
+git commit -m "Add gitignore for CP setup"
+git push
+
+git branch -M main
+git push -u origin main
+
+
