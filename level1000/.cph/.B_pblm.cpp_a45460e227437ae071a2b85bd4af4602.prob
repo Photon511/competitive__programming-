@@ -1,0 +1,1 @@
+{"name":"Local: B_pblm","url":"/Users/apple/Downloads/CP31/level900/level1000/B_pblm.cpp","tests":[{"id":1774445640171,"input":"2\n2 2\n-1 1\n1 1\n3 4\n0 -1 -2 -3\n-1 -2 -3 -4\n-2 -3 -4 -5\n\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/apple/Downloads/CP31/level900/level1000/B_pblm.cpp","group":"local","local":true}
